@@ -1,0 +1,11 @@
+{
+	"data_sources": {
+		"api": { "https://api.github.com/search/repositories"
+                    },
+		"mongoDB": {
+			"username": "username",
+			"password": "encrypted_password",
+			"host": "host name"
+		}
+	}
+}
